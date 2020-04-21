@@ -1,5 +1,4 @@
 {
-  "name": "google-calendar-time",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +9,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "gapi-script": "^1.0.2",
+    "moment": "^2.24.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
